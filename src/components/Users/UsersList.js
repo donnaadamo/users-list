@@ -17,5 +17,3 @@ const UsersList = (props) => {
 };
 
 export default UsersList;
-
-//{props.users.map(item => <User name={item.userName} age={item.age}/>)}
